@@ -22,7 +22,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 ☀️ Real-time application that updates with changing weather based upon city of selection  
   
 ## Skills 💻  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="150"/>
 
 <!--
 **caseycling/caseycling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
