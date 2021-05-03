@@ -8,7 +8,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 ##Projects :art:
 
-**Gravel** -  **[Repo](https://github.com/caseycling/gravel)** - **[Demo](https://gravel-app.herokuapp.com/)**
+**Gravel** -  **[Repo](https://github.com/caseycling/gravel)** | **[Demo](https://gravel-app.herokuapp.com/)**  
 :oncoming_automobile: Group travel app (thus the punny name) for allocating rideshares to various cities
 
 <!--
