@@ -7,7 +7,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
   
 
 
-# Projects :art:
+## Projects :art:
 
 **Gravel** -  **[Repo](https://github.com/caseycling/gravel)** | **[Demo](https://gravel-app.herokuapp.com/)** 
   
@@ -23,7 +23,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
   
     
   
-# Skills 💻  
+## Skills 💻  
 <p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="130"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="drawing" width="130"/>&nbsp;
