@@ -1,5 +1,5 @@
 # Hi there, I'm Casey 👋
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Full-stack developer, eager to apply new technologies to create software that makes people’s lives easier.
 
 
