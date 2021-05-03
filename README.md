@@ -14,7 +14,11 @@ With a background in hospitality, I value the fulfillment of creating meaningful
   
 **Barter Bud** - **[Repo](https://github.com/caseycling/Project2)** | **[Demo](https://secure-headland-57611.herokuapp.com)** 
   
-:ok_hand: Barter based application allowing users to post and trade items
+:ok_hand: Barter based application allowing users to post and trade items  
+  
+**Weather App** - **[Repo]( https://github.com/caseycling/weather-app)** | **[Demo](https://caseycling.github.io/weather-app)** 
+  
+☀️: Real-time application that updates with changing weather based upon city of selection 
 
 
 <!--
