@@ -8,8 +8,14 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 ## Projects :art:
 
-**Gravel** -  **[Repo](https://github.com/caseycling/gravel)** | **[Demo](https://gravel-app.herokuapp.com/)**  
+**Gravel** -  **[Repo](https://github.com/caseycling/gravel)** | **[Demo](https://gravel-app.herokuapp.com/)** 
+  
 :oncoming_automobile: Group travel app (thus the punny name) for allocating rideshares to various cities
+  
+**Barter Bud** - **[Repo](https://github.com/caseycling/Project2)** | **[Demo](https://secure-headland-57611.herokuapp.com)** 
+  
+:ok_hand: Barter based application allowing users to post and trade items
+
 
 <!--
 **caseycling/caseycling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
