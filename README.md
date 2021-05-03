@@ -24,12 +24,12 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 ## Skills 💻  
 <p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="130"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="drawing" width="130"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="drawing" width="130"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="drawing" width="130"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="drawing" width="130"/>
-  <img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-128.png" alt="drawing" width="130"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="drawing" width="130"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="drawing" width="130"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="drawing" width="130"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="drawing" width="130"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="drawing" width="130"/>&nbsp;
+  <img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-128.png" alt="drawing" width="130"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="drawing" width="130"/>&nbsp;
 
 
   
