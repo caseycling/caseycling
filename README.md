@@ -6,7 +6,7 @@ Full-stack developer, eager to apply new technologies to create software that ma
 With a background in hospitality, I value the fulfillment of creating meaningful and memorable experiences. My desire to make a lasting difference that is accessible to everyone is what led me to software engineering. Immersing myself into object-oriented and functional programming, multiple languages, and frameworks, evidently proved the potential of growth for the community and myself is limitless. I am thrilled at the opportunity to contribute to any project that is motivated by positively impacting our day to day lives.
 
 
-##Projects :art:
+## Projects :art:
 
 **Gravel** -  **[Repo](https://github.com/caseycling/gravel)** | **[Demo](https://gravel-app.herokuapp.com/)**  
 :oncoming_automobile: Group travel app (thus the punny name) for allocating rideshares to various cities
