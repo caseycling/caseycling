@@ -23,7 +23,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
   
 ## Skills 💻  
 [logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
-
+[logo]: https://github.com/icon48.png
 
 
 <!--
